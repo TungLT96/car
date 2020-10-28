@@ -1,0 +1,41 @@
+/* display */
+.is-display-flex{
+  display: flex;
+}
+.is-text-center{
+  text-align: center;
+}
+/* padding */
+.is-pd-20{
+  padding: 20px;
+}
+/* margin */
+.is-mg-20{
+  margin: 20px;
+}
+/* text */
+.is-text-grey{
+  color: #4a5568;
+}
+/* color */
+.is-orarange{
+  background-color: orange;
+}
+/* border */
+.is-bordertop-orrange{
+  border-top: 3px solid orange;
+}
+.form{
+  width: 700px;
+  margin: 50px auto;
+}
+.item{
+  border-bottom: 2px solid #4a5568;
+}
+.dropdown{
+  padding:20px;
+  text-align: center;
+}
+.bg-gray-200{
+  background-color: #edf2f7;
+}
