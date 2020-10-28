@@ -1,0 +1,1 @@
+SELECT * FROM `wp_postmeta`,`wp_posts`,`seller` WHERE wp_postmeta.post_id = wp_posts.ID and wp_postmeta.meta_value = seller.name and seller.name="tung"
